@@ -1,0 +1,77 @@
+.error {
+    color: red;
+    text-align: center;
+    margin-top: -26px;
+}
+
+.error-general {
+    color: red;
+    text-align: center;
+}
+
+.ml-username {
+    color: black;
+    margin-left: 200px;
+}
+
+.body-back {
+    background: url("/resources/img/backgr-pattern.jpg");
+}
+
+.back-color {
+    background-color: white;
+}
+
+.add-form {
+    border-radius: 20px;
+    max-width: 850px;
+    max-height: 1450px;
+    background: #FFFFFF;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .4);
+}
+
+.save-form {
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+.add-detail-form {
+    padding: 20px;
+}
+
+.error-form {
+    border-radius: 20px;
+    max-width: 550px;
+    height: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .4);
+    padding-right: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.center-form {
+    display: flex;
+    justify-content: center;
+}
+
+.error-no-result {
+    border-radius: 20px;
+    max-width: 400px;
+    height: 400px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .4);
+    padding-right: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.register-confirm-form {
+    border-radius: 20px;
+    max-width: 400px;
+    height: 50px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .4);
+    background: #FFFFFF;
+    padding-top: 5px;
+}
+
