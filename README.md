@@ -5,8 +5,18 @@ This Spring MVC 'Plant-store' project was created for educational purposes. Cons
 The program has two types of users with slightly different features: **Seller** and **Admin**.
 
 
-**Admin** 
-**Seller** 
+**Admin** possibilities:
+* The possibility to register a new user
+* View plant-store staff list and *add / delete / update* new clients to the system  
+* All the possibilities of a **Seller**
+
+**Seller** possibilities:
+* View plant list and *add / delete / update / order* plants. 
+* View the clients who ordered a particular plant.
+* View client list and *add / delete / update* clients. 
+* View the plants ordered by the customer.
+* View order info and *change order status / delete* order.
+* View more information about orders.
 ---
 
 # Used frameworks, libraries, technologies
@@ -39,3 +49,16 @@ The program has two types of users with slightly different features: **Seller** 
 <img src="https://imagizer.imageshack.com/img922/9554/hfJjqG.png" />
 <img src="https://imagizer.imageshack.com/img924/6856/18dmUb.png" />
 <img src="https://imagizer.imageshack.com/img923/8878/ctixe3.png" />
+
+# Registered users by default
+
+**Admin Rights**:  
+User: **adminos**  
+Password: **test123**  
+
+**Sellers Rights**:  
+User: **noob**  
+Password: **test123**  
+  
+User: **meta-dady**  
+Password: **test123**  
